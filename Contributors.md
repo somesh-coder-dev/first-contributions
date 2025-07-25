@@ -5342,4 +5342,4 @@ asd
 - [Diego Escalante] (https://github.com/na0kk0) <3
 - [Nawal Mohamed](https://github.com/Nawalm0) - Hello GitHub
 - [Hafsa Ahmad](https://github.com/Hafsah-Ahmad) - why is everyone saying hello mam/sir? ;D
-- - [Somesh Mishra](https://github.com/somesh-coder-dev) – Hello everyone! Excited for my first open source contribution 🚀
+- [Somesh Mishra](https://github.com/somesh-coder-dev) – Hello everyone! Excited for my first open source contribution 🚀
